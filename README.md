@@ -1,21 +1,23 @@
-# simple-ioc
+# simple-ioc-lib
 
-[![Build Status](https://travis-ci.org/rwlodkowski/simple-ioc.svg?branch=master)](https://travis-ci.org/rwlodkowski/simple-ioc)
-[![License](https://badgen.net/github/license/rwlodkowski/simple-ioc)](./LICENSE)
-[![Library minified size](https://badgen.net/bundlephobia/min/simple-ioc)](https://bundlephobia.com/result?p=simple-ioc)
-[![Library minified + gzipped size](https://badgen.net/bundlephobia/minzip/simple-ioc)](https://bundlephobia.com/result?p=simple-ioc)
+[![Build Status](https://travis-ci.org/rwlodkowski/simple-ioc-lib.svg?branch=master)](https://travis-ci.org/rwlodkowski/simple-ioc-lib)
+[![License](https://badgen.net/github/license/rwlodkowski/simple-ioc-lib)](./LICENSE)
+[![Library minified size](https://badgen.net/bundlephobia/min/simple-ioc-lib)](https://bundlephobia.com/result?p=simple-ioc-lib)
+[![Library minified + gzipped size](https://badgen.net/bundlephobia/minzip/simple-ioc-lib)](https://bundlephobia.com/result?p=simple-ioc-lib)
 
-## What is simple-ioc?
-simple-ioc is a simple dependency injection library seed written in Typescript.
+## What is simple-ioc-lib-lib?
+
+simple-ioc-lib-lib is a simple dependency injection library seed written in Typescript.
+
 ## Installation
 
 This library is published in the NPM registry and can be installed using any compatible package manager.
 
 ```sh
-npm install simple-ioc --save
+npm install simple-ioc-lib-lib --save
 
 # For Yarn, use the command below.
-yarn add simple-ioc
+yarn add simple-ioc-lib-lib
 ```
 
 ## Documentation

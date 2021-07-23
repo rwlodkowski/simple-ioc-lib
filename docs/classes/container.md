@@ -1,4 +1,4 @@
-[simple-ioc](../README.md) / Container
+[simple-ioc-lib](../README.md) / Container
 
 # Class: Container
 

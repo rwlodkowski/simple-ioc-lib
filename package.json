@@ -1,15 +1,15 @@
 {
-  "name": "simple-ioc",
+  "name": "simple-ioc-lib",
   "version": "0.0.1",
   "description": "Simple IoC implementation",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rwlodkowski/simple-ioc.git"
+    "url": "git+https://github.com/rwlodkowski/simple-ioc-lib.git"
   },
   "author": "Radosław Włodkowski <radoslaw@wlodkowski.net> (http://wlodkowski.net/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rwlodkowski/simple-ioc/issues"
+    "url": "https://github.com/rwlodkowski/simple-ioc-lib/issues"
   },
   "homepage": "https://github.com/rwlodkowski/simple-ioc#readme",
   "keywords": [

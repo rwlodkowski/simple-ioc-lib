@@ -1,4 +1,4 @@
-simple-ioc
+simple-ioc-lib
 
 # simple-ioc
 
